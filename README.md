@@ -35,4 +35,6 @@ Vanilla JavaScript
 
 
 
-game will be live at:
+
+Game live at:
+https://puzzle-game-wlqk.onrender.com
