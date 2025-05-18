@@ -11,6 +11,10 @@ Background music with mute/unmute control
 Level progression with victory detection
 
 📸 Screenshots :-
+![START PAGE](START.png)
+![GAME PAGE](PUZZLE.png)
+
+
 
 Tech Stack:-
 HTML5
