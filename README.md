@@ -1,9 +1,9 @@
-PUZZLE GAME:-
+## PUZZLE GAME:-
  
 An interactive tile-based puzzle game to challenge your brain one tile at a time. Shuffle, swap, and solve the image before time runs out!
 
 
-Features:-
+## Features:-
 
 Dynamic puzzle generation with increasing difficulty
 
@@ -18,13 +18,13 @@ Background music with mute/unmute control
 Level progression with victory detection
 
 
-📸 Screenshots :-
+##  Screenshots :-
 ![START PAGE](START.png)
 ![GAME PAGE](PUZZLE.png)
 
 
 
-Tech Stack:-
+## Tech Stack:-
 
 HTML5
 
